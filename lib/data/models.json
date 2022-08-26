@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "title": "Article"
+    },
+    {
+        "id": "2",
+        "title": "Book"
+    },
+    {
+        "id": "3",
+        "title": "Video"
+    },
+    {
+        "id": "4",
+        "title": "Podcast"
+    },
+    
+    {
+        "id" : "1",
+        "title" : "Why we get map - and why it's healthy",
+        "tag":"",
+        "description" : "Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. ",
+        "userName" : "Gladys Mccoy",
+        "categoryTile" : "Article",
+        "categoryId" : "1",
+        "image" : "images/image1.jpg",
+        "userImage" : "images/user1.jpg",
+        "date" : "Sep 15"
+    },
+    {
+        "id" : "2",
+        "title" : "Emotional Intelligence",
+        "tag":"Daniel Goleman",
+        "description" : "Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. ",
+        "userName" : "Recardo Flores",
+        "categoryTile" : "Book",
+        "categoryId" : "2",
+        "image" : "images/image2.jpg",
+        "userImage" : "images/user2.jpg",
+        "date" : "Sep 15"
+    },
+    {
+        "id" : "3",
+        "title" : "The difference between healthy and unhealthy love",
+        "tag":"",
+        "description" : "Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. ",
+        "userName" : "Arthur Fisher",
+        "categoryTile" : "Video",
+        "categoryId" : "3",
+        "image" : "images/image3.jpg",
+        "userImage" : "images/user3.jpg",
+        "date" : "Sep 15"
+    },
+    {
+        "id" : "4",
+        "title" : "Episode 1",
+        "tag":"Hatred",
+        "description" : "Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. ",
+        "userName" : "Gloria Nguyen",
+        "categoryTile" : "Podcast",
+        "categoryId" : "4",
+        "image" : "images/image4.jpg",
+        "userImage" : "images/user4.jpg",
+        "date" : "Sep 15"
+    },
+    {
+        "id" : "5",
+        "title" : "How to Develop Effective Work Probablity",
+        "description" : "Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. ",
+        "userName" : "Haroland Pina",
+        "categoryTile" : "Article",
+        "categoryId" : "1",
+        "image" : "images/image5.jpg",
+        "userImage" : "images/user5.jpg",
+        "date" : "Sep 15"
+    },
+    {
+        "id" : "6",
+        "title" : "Why we get map - and why it's healthy",
+        "description" : "Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. Here will be the description. ",
+        "userName" : "Gladys Mccoy",
+        "categoryTile" : "Article",
+        "categoryId" : "1",
+        "image" : "images/image1.jpg",
+        "userImage" : "images/user1.jpg",
+        "date" : "Sep 15"
+    }
+  
+]
